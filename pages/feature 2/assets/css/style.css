@@ -81,7 +81,7 @@ a:hover {
 }
 .container{
     position: absolute;
-    top: 70%;
+    top: 80%;
     left: 47%;
     transform: translate(-50%, -50%);
     width: 800px;
