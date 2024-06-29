@@ -6,21 +6,21 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/icon.jpeg" alt="icon" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Features Display</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Welcome to our exclusive audio gear showcase! Discover the innovative features of the JBL Clip 4 and Beats Solo 4, designed to elevate your listening experience. Navigate through our user-friendly interface to explore each product's unique benefits.
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=silascoroza/WD_SW4_PROJECT-main)
 
 ---
 
@@ -57,20 +57,20 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
-
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+-The project is a dynamic website featuring a sidebar navigation menu and sections with interactive elements like animated cards, image hover effects, and buttons. It aims to offer a seamless user experience by allowing easy navigation through various features and engaging content. Key components include a sidebar with options for Home, Feature 1, Feature 2, and Logout, along with feature sections equipped with navigation bars. HTML structures the layout, CSS styles elements including cards and hover effects, while JavaScript adds interactivity and animations for a smooth user experience.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Landing Page: Contains a sidebar navigation with options for Home, Feature 1, Feature 2, and Logout.
+
+- Feature Sections: Each feature section has a navigation bar with options for Home and the other feature, enabling easy navigation.
+
+- Animated Cards/Containers: These include animations that activate on hover or interaction, providing a dynamic visual experience.
+
+- Interactive Images: Images with hover effects to draw attention and enhance interactivity.
+
+- Buttons: Interactive buttons within the features to facilitate user actions.
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -90,7 +90,7 @@ Guiding Question:
 7. File Structure to follow below.
 
 ```
-WD-ProjectName
+WD_SW4_PROJECT-main
 └─ assets
 |   └─ css
 |   |   └─ style.css
@@ -99,15 +99,25 @@ WD-ProjectName
 |   └─ js
 |       └─ script.js
 └─ pages
-|  └─ pageName
-|     └─ assets
-|     |  └─ css
-|     |  |  └─ style.css
-|     |  └─ img
-|     |  |  └─ fileWith.jpeg/.jpg/.webp/.png
-|     |  └─ js
-|     |     └─ script.js
-|     └─ index.html
+|  └─ feature 1
+|  |   └─ assets
+|  |   |  └─ css
+|  |   |  |  └─ style.css
+|  |   |  └─ img
+|  |   |  |  └─ fileWith.jpeg/.jpg/.webp/.png|
+|  |   |  └─ js
+|  |   |     └─ script.js
+|  |   └ index.html
+|  └─ feature 2
+|   |  └─ assets
+|  |   |  └─ css
+|  |   |  |  └─ style.css
+|  |   |  └─ img
+|  |   |  |  └─ fileWith.jpeg/.jpg/.webp/.png|
+|  |   |  └─ js
+|  |   |      └─ script.js
+|  |   └ index.html
+|  |   
 └─ index.html
 └─ readme.md
 ```
@@ -115,6 +125,10 @@ WD-ProjectName
 ## Resources
 
 <!-- TODO: Add References -->
-| Title | Purpose | Link |
-|-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+
+| Pinterest | Image source | https://ph.pinterest.com/ |
+| Google  | Image source | https://www.google.com/search?q=jbl+clip+4+connected+in+phone&sca_esv=338ac2989bfe946c&udm=2&biw=1442&bih=701&sxsrf=ADLYWII5BizZRQoV0g59LMww0eT862MmVw%3A1719590459294&ei=O95-ZufTEfDb2roPpLC94AM&ved=0ahUKEwin3fDT1f6GAxXwrVYBHSRYDzwQ4dUDCBA&uact=5&oq=jbl+clip+4+connected+in+phone&gs_lp=Egxnd3Mtd2l6LXNlcnAiHWpibCBjbGlwIDQgY29ubmVjdGVkIGluIHBob25lSJxDUMsQWNhBcAR4AJABAZgBvwKgAfkbqgEINC4xOC4zLjG4AQPIAQD4AQGYAhKgAusMwgIHEAAYgAQYGMICBBAjGCfCAgYQABgIGB7CAgQQABgewgIFEAAYgASYAwCIBgGSBwQ2LjEyoAeRVA&sclient=gws-wiz-serp#vhid=mrF-zRF-rS9ZLM&vssid=mosaic |
+
+| Font Awesome | Designed icons | https://fontawesome.com/ |
+| removebg | Removing Background | https://www.remove.bg/ |
+| Color Hunt | Color Ideas | https://colorhunt.co/ |
