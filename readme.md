@@ -127,8 +127,10 @@ WD_SW4_PROJECT-main
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Responsive Sidebar Menu in HTML CSS & JavaScript | Sidebar Design | https://www.youtube.com/watch?v=bFvfqUMjvsA&list=PLImJ3umGjxdCjoBGj1eGQwcopR0P0edAK |
+| Responsive Sidebar Menu in HTML CSS & JavaScrip | Sidebar Design | https://www.youtube.com/watch?v=bFvfqUMjvsA&list=PLImJ3umGjxdCjoBGj1eGQwcopR0P0edAK |
 | Pinterest | Source of Image | https://ph.pinterest.com/pin/289497082312567956/ |
-| CSS Flexbox Responsive Cards frontend Simplified Web Design Tutorial | Card Idea | https://www.youtube.com/watch?v=0m5e1V7g8kM |
-|Personal Portfolio Website using HTML & CSS| Hero Ideas | https://www.youtube.com/watch?v=RroDdybvu5s&t=395s|
+| Animated Card Hover Effect Html & CSS CodeEra | Animation Idea |  https://www.youtube.com/watch?v=t5zFfDdvApE |
+| Google | Source of Image | https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjA-5Tg1_6GAxXdk1YBHYq4CP4QPAgJ |
 |Font Awesome| Some Icons | https://fontawesome.com/icons|
+| removebg | Removing Background | https://www.remove.bg/ |
+| Color Hunt | Color Ideas | https://colorhunt.co/ |
