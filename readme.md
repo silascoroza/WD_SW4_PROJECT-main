@@ -128,10 +128,9 @@ WD_SW4_PROJECT-main
 | Title | Purpose | Link |
 |-|-|-|
 
-|Pinterest|Image source|https://ph.pinterest.com/|
-|Google|Image source|https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjA-5Tg1_6GAxXdk1YBHYq4CP4QPAgJ|
-
+| Pinterest| Image source | https://ph.pinterest.com/ |
+| Google|Image source | https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjA-5Tg1_6GAxXdk1YBHYq4CP4QPAgJ |
 | Font Awesome | Designed icons| https://fontawesome.com/ |
 | removebg | Removing Background | https://www.remove.bg/ |
 | Color Hunt | Color Ideas | https://colorhunt.co/ |
-|Youtube| Animation ideas | https://www.youtube.com/watch?v=t5zFfDdvApE |
+| Youtube| Animation ideas | https://www.youtube.com/watch?v=t5zFfDdvApE |
