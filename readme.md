@@ -125,10 +125,13 @@ WD_SW4_PROJECT-main
 ## Resources
 
 <!-- TODO: Add References -->
+| Title | Purpose | Link |
+|-|-|-|
 
-| Pinterest | Image source | https://ph.pinterest.com/ |
-| Google  | Image source | https://www.google.com/search?q=jbl+clip+4+connected+in+phone&sca_esv=338ac2989bfe946c&udm=2&biw=1442&bih=701&sxsrf=ADLYWII5BizZRQoV0g59LMww0eT862MmVw%3A1719590459294&ei=O95-ZufTEfDb2roPpLC94AM&ved=0ahUKEwin3fDT1f6GAxXwrVYBHSRYDzwQ4dUDCBA&uact=5&oq=jbl+clip+4+connected+in+phone&gs_lp=Egxnd3Mtd2l6LXNlcnAiHWpibCBjbGlwIDQgY29ubmVjdGVkIGluIHBob25lSJxDUMsQWNhBcAR4AJABAZgBvwKgAfkbqgEINC4xOC4zLjG4AQPIAQD4AQGYAhKgAusMwgIHEAAYgAQYGMICBBAjGCfCAgYQABgIGB7CAgQQABgewgIFEAAYgASYAwCIBgGSBwQ2LjEyoAeRVA&sclient=gws-wiz-serp#vhid=mrF-zRF-rS9ZLM&vssid=mosaic |
+|Pinterest|Image source|https://ph.pinterest.com/|
+|Google|Image source|https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjA-5Tg1_6GAxXdk1YBHYq4CP4QPAgJ|
 
-| Font Awesome | Designed icons | https://fontawesome.com/ |
+| Font Awesome | Designed icons| https://fontawesome.com/ |
 | removebg | Removing Background | https://www.remove.bg/ |
 | Color Hunt | Color Ideas | https://colorhunt.co/ |
+|Youtube| Animation ideas | https://www.youtube.com/watch?v=t5zFfDdvApE |
